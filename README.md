@@ -2,7 +2,7 @@
 
 
 ## Alura Plus (Curso) Gustavo Cruz
-This is the first version, it's not the final version because I didn't make the responsive changes for mobiles. Course (Alura) using Html 5 and CSS 3.
+it's not the final version because I didn't make the responsive changes for mobiles. Course (Alura) using Html 5 and CSS 3.
 
 
 ## Technology 
